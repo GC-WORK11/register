@@ -1,0 +1,13 @@
+{
+  "description": "Alive \u2014 the personal air dose ledger for Delhi NCR. Live field rebuilt every 15 min on AWS.",
+  "owner": {
+    "username": "GC-WORK11",
+    "email": "195907032+GC-WORK11@users.noreply.github.com"
+  },
+  "record": {
+    "A": [
+      "65.2.28.40"
+    ]
+  },
+  "proxied": true
+}
